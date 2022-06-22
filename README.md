@@ -35,8 +35,9 @@
   
 ##
 
+<br>
 <div> 
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png">
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://ouch-cdn2.icons8.com/vZD-nOO0-rKGloPBW0WjLQF-i8hfkpa7QWY_3L4YTGA/rs:fit:684:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png">
 </div>
 
 - Cisco ( Intermediario )
@@ -48,10 +49,10 @@
 - Wifi
 - Cabeamento Estruturado
 - Fibra Optica
-
+<br>
+<br>
 
 ## Minhas Skills de Sistemas
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://www.debian.org/logos/openlogo.svg">&nbsp;&nbsp;
@@ -68,6 +69,7 @@
   
 ##
 
+<br>
 <div> 
   <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://e-file.huawei.com/-/media/EBG/Images/ProductV2/enterprise-networking/routers/product/ar1000v.png">
 </div>
@@ -81,18 +83,21 @@
 - Servidores Web
 - Monitoramento com Zabbix e Grafana
 - Monitoramentos de Ativos
+<br>
+<br>
 
 ## Minhas Skills de Redes
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Ts" height="120" width="120" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="60" width="120" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/huawei_logo_icon_170010.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png"> 
-  </div>
+  <img align="center" alt="Rafa-Js" height="90" width="120" src="https://www.groupelite.com/hubfs/cisco.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="80" width="160" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="80" width="160" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/huawei_logo_icon_170010.png">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="60" width="100" src="https://thinkwireless.nz/wp-content/uploads/2016/10/Juniper-Networks-logo-1.jpg"> 
+</div>
   
 ##
+<br>
 <div> 
   <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/linha-%C3%ADcone-do-roteador-de-wifi-sinal-do-vetor-do-esbo%C3%A7o-pictograma-linear-isolado-no-branco-88539530.jpg">
 </div>
@@ -106,7 +111,7 @@
 - Wifi
 - Cabeamento Estruturado
 - Fibra Optica
-
+<br>
 
 ## Meus contatos
 
