@@ -36,10 +36,10 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Ts" height="60" width="120" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Js" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="120" width="120" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="60" width="120" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/huawei_logo_icon_170010.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png"> 
   <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/linha-%C3%ADcone-do-roteador-de-wifi-sinal-do-vetor-do-esbo%C3%A7o-pictograma-linear-isolado-no-branco-88539530.jpg">
 </div>
   
@@ -52,6 +52,31 @@
 - Border Router
 - Switchs
 - Wifi
+- Cabeamento Estruturado
+- Fibra Optica
+
+## Minhas Skills de Programação
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="120" width="120" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="60" width="120" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/huawei_logo_icon_170010.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png"> 
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/linha-%C3%ADcone-do-roteador-de-wifi-sinal-do-vetor-do-esbo%C3%A7o-pictograma-linear-isolado-no-branco-88539530.jpg">
+</div>
+  
+##
+
+- Cisco ( Intermediario )
+- Mikrotik ( Avançado )
+- Huawei ( Basico )
+- Juniper ( Basico )
+- Border Router
+- Switchs
+- Wifi
+- Cabeamento Estruturado
+- Fibra Optica
 
 
 ## Meus contatos
@@ -61,6 +86,7 @@
 - Instagram @jcafeitosa
 - E-mail juliocezaraquinofeitosa@gmail.com
 
+##
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
