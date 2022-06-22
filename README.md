@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcafeitosa&layout=demo)](https://github.com/jcafeitosa/github-readme-stats)
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://pbs.twimg.com/profile_banners/1506355893960589315/1652291711/1500x500" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/jcafeitosa/git-staart/blob/main/Screenshot_5.png" />
 </h1>
 
 ## Meus Hobbies
