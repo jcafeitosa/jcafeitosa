@@ -1,8 +1,8 @@
-## Olá, eu sou a Julio Cezar. <hr> <div align=center >Pai de Mikhael, Ana Julia e Gabriel, Empresario, Estudante de programação e entusiasta de tecnologia!</div>
+## Olá, eu sou a Julio Cezar, Empresario, Estudante de programação, entusiasta de tecnologia.
 
 ![Julio Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcafeitosa&show_icons=true&theme=Showing)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcafeitosa&layout=demo)](https://github.com/jcafeitosa/github-readme-stats)
 
-Olá. eu sou Julio Cezar Aquino
 
 ## Meus Hobbies
 
