@@ -3,20 +3,56 @@
 ![Julio Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcafeitosa&show_icons=true&theme=Showing)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcafeitosa&layout=demo)](https://github.com/jcafeitosa/github-readme-stats)
 
-## Meus Hobbies
+## Minhas Skills de Sistemas
 
-- Viajar
-- Cozinhar ( tentar né )
-- Assistir Filmes e séries
-- Comer
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://www.debian.org/logos/openlogo.svg">
+  <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://devicons.railway.app/i/ubuntu.svg">
+  <img align="center" alt="Rafa-React" height="40" width="40" src="https://devicons.railway.app/i/windows10.svg">
+  <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://devicons.railway.app/i/docker.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://devicons.railway.app/i/kubernetes.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://devicons.railway.app/i/nginx.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png">
+  <img align="center" alt="Rafa-Csharp" height="80" width="120" src="https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png">
+  <img align="center" alt="Rafa-Csharp" height="50" width="120" src="https://www.unbound.org/Images/Unbound/header_brand-UNBOUND.png">
+  <img align="center" alt="Rafa-Csharp" height="40" width="120" src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://e-file.huawei.com/-/media/EBG/Images/ProductV2/enterprise-networking/routers/product/ar1000v.png">
+</div>
+  
+##
 
-## Atualmente estudando
+- Linux ( Debian e Derivados )
+- Docker ( tentar né )
+- Kubernetes Filmes e séries
+- Grafana
+- Zabbix
+- Sevidores DNS Autoritativos e Recursivos
+- Servidores Web
+- Monitoramento com Zabbix e Grafana
+- Monitoramentos de Ativos
 
-- Git e Github
-- ReactJS
-- NodeJS
-- NextJS
-- Javascript e Typescript
+## Minhas Skills de Redes
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="60" width="120" src="https://mikrotik.com/img/mtv2/newlogo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="60" width="120" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/huawei_logo_icon_170010.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/linha-%C3%ADcone-do-roteador-de-wifi-sinal-do-vetor-do-esbo%C3%A7o-pictograma-linear-isolado-no-branco-88539530.jpg">
+</div>
+  
+##
+
+- Cisco ( Intermediario )
+- Mikrotik ( Avançado )
+- Huawei ( Basico )
+- Juniper ( Basico )
+- Border Router
+- Switchs
+- Wifi
+
 
 ## Meus contatos
 
@@ -24,3 +60,13 @@
 - GitHub @jcafeitosa
 - Instagram @jcafeitosa
 - E-mail juliocezaraquinofeitosa@gmail.com
+
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+</div>
