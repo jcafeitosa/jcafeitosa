@@ -3,9 +3,9 @@
 ![Julio Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcafeitosa&show_icons=true&theme=Showing)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcafeitosa&layout=demo)](https://github.com/jcafeitosa/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://staart.com/assets/svg/logo-staart.svg">
-</div>
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://pbs.twimg.com/profile_banners/1506355893960589315/1652291711/1500x500" />
+</h1>
 
 ## Meus Hobbies
 
