@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/jcafeitosa/git-staart/blob/main/barra.png" /></h1>
+<h1 align="center"><img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/jcafeitosa/git-staart/blob/main/barra2.png" /></h1>
 
 ## Olá, eu sou a Julio Cezar, Empresario e Estudante de programação.
 
