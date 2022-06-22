@@ -19,7 +19,7 @@ Olá. eu sou Julio Cezar Aquino
 
 ## Meus contatos
 
--Twiter @jcafeitosa
--GitHub @jcafeitosa
--Instagram @jcafeitosa
--E-mail juliocezaraquinofeitosa@gmail.com
+- Twiter @jcafeitosa
+- GitHub @jcafeitosa
+- Instagram @jcafeitosa
+- E-mail juliocezaraquinofeitosa@gmail.com
