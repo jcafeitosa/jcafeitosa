@@ -9,6 +9,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://devicons.railway.app/i/github-dark.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://devicons.railway.app/i/git.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://devicons.railway.app/i/mysql.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://devicons.railway.app/i/laravel.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://devicons.railway.app/i/heroku.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://devicons.railway.app/i/materialui.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/javascript.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/typescript.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://devicons.railway.app/i/react.svg">&nbsp;&nbsp;
@@ -28,8 +32,12 @@
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/npm.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/figma.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/postman.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/flutter.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/angularjs.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/aws.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/gulp.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/visual-studio-code.svg">&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="80" width="80" src="https://devicons.railway.app/i/nodejs-dark.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/sass.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://devicons.railway.app/i/firebase.svg">&nbsp;&nbsp;
   </div>
   
