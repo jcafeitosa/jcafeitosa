@@ -1,16 +1,25 @@
-### Hi there 👋
+## Bem Vindo(a) ao meu perfil.
 
-<!--
-**jcafeitosa/jcafeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá. eu sou Julio Cezar Aquino
 
-Here are some ideas to get you started:
+## Meus Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Viajar
+- Cozinhar ( tentar né )
+- Assistir Filmes e séries
+- Comer
+
+## Atualmente estudando
+
+- Git e Github
+- ReactJS
+- NodeJS
+- NextJS
+- Javascript e Typescript
+
+## Meus contatos
+
+-Twiter @jcafeitosa
+-GitHub @jcafeitosa
+-Instagram @jcafeitosa
+-E-mail juliocezaraquinofeitosa@gmail.com
