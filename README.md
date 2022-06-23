@@ -80,16 +80,16 @@
 ## Minhas Skills de Sistemas
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://www.debian.org/logos/openlogo.svg">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Js" height="60" width="100" src="https://xellink.com/wp-content/uploads/2016/01/debian-logo.jpg">&nbsp;
   <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://devicons.railway.app/i/ubuntu.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://devicons.railway.app/i/windows10.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://devicons.railway.app/i/docker.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://devicons.railway.app/i/kubernetes.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://devicons.railway.app/i/nginx.svg">&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png">&nbsp;
   <img align="center" alt="Rafa-Csharp" height="80" width="120" src="https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png">&nbsp;&nbsp;
   <img align="center" alt="Rafa-Csharp" height="50" width="120" src="https://www.unbound.org/Images/Unbound/header_brand-UNBOUND.png">&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Csharp" height="40" width="120" src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png">&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Csharp" height="30" width="120" src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png">&nbsp;&nbsp;
   </div>
   
 ##
